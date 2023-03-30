@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(197, 184, 199);
+    font-family: monospace;
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+    
+    img {
+        border-radius: 10%;
+    }
+    h1 {
+        font-family: sans-serif;
+    }
+
+    #qa {
+        float:left;
+        width:45%;
+        margin:1%;
+        
+    }
+    
+    
+    
+    #lo{
+        float:left;
+        width:50%;
+        overflow-x: clip;
+    }
+    
+    .r {
+        width: auto;
+        overflow: auto;
+        height: auto;
+        clear:both;
+    }
+    
+    
+    #home {
+        float:right;
+    }
+    
+    #t {
+        float:left;
+    }
+    
+    #qat {
+        font-size: 1.75em;
+    }
+    
+    a:hover, .link:hover {
+        background-color: antiquewhite;
+        color: blue;
+    }
+
+    a {
+        color:rgb(255, 255, 255);
+    }
+    

@@ -1,0 +1,55 @@
+<html>
+<head> 
+<title> Dreigologie </title>
+
+<style>
+
+body {
+
+}
+
+
+.nav {
+	width: 400;
+	border: 3px solid yellow;
+	margin: 5px;
+}
+
+.tit { color: black;
+
+}
+	</style>
+
+</head>
+
+
+<body>
+
+<h1>Poems by deh Pilot, Die Biologiese Formaat van die Demokratiese Verkiesing and The Blerrie Poet</h1>
+	<center>
+<table>
+
+	<tr>
+		<th class="nav"> <a href="Subpages/dreigologie.html"><p class="tit">Dreigologie</p></a></th>
+		<th class="nav"> <a href="Subpages/Who-is=the-pilot.html"><p class="tit">deh Pilot</p></a></th>
+		<th class="nav"> <a href=""><p class="tit"> Die Biologiese Formaat van die Demokratiese Verkiesing</p></a></th>
+		<th class="nav"><a href=""><p class="tit">Die Blerrie Poet</p></a></th>
+		<th class="nav"> <a href="Subpages/poems.html"><p class="tit"> Poems </p></a> </th>
+	</tr>
+	
+</table>
+	</center>
+
+<h2>Info</h2>
+<p>This website was created to serve as a bank of poems, created by:</p>
+<bl>
+	<li>The Blerrie Poet</li>
+	<li><a href="Subpages\Who-is=the-pilot.html" class="tit">deh Pilot</a></li>
+	<li>Die Biologiese Formaat van die Demokratiese verkiesing (aka Ewewydige slootgrafiet) </li>
+
+</bl>
+
+</body>
+
+
+</html>
